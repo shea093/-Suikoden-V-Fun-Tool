@@ -1,0 +1,48 @@
+1 : Stamina
+2 : Attack
+3 : Defense
+4 : Technique
+5 : Vitality
+6 : Agility
+7 : Magic
+8 : Magic Defense
+9 : Incantation
+A : Sword Magic
+B : Raging Lion
+C : Fate Control
+D : Karmic Effect
+E : Armor of Gods
+F : Swift Foot
+10 : Triple Harmony
+11 : All-out Strike
+12 : Untold Clarity
+13 : Divine Right
+14 : Zen Sword
+15 : Sacred Oath
+16 : Royal Paradise
+17 : Thief
+18 : Mow Down
+19 : Pierce
+1A : Freeze
+1B : ???????
+1C : Barrage
+1D : Long Throw
+1E : Dragon Special
+1F : Forge
+20 : Combat Teacher
+21 : Chain Magic
+22 : Analyze
+23 : Potch Finder
+24 : Treasure Hunt
+25 : Escape Route
+26 : Healing
+27 : Treatment
+28 : Haggle
+29 : Trade In
+2A : Cook
+2B : Rune Sage
+2C : Bard
+2D : Perfect Pitch
+2E : Appraisal
+2F : Bath
+30 : Tutor

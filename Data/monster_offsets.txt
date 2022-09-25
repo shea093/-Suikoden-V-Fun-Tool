@@ -1,0 +1,218 @@
+0049F157 Holly Boy
+0049F1D3 Holly Elf
+0049F24F Holly Elf ( Boss Area )
+0049F2CB Nariqua
+0049F347 Hairball Red
+0049F3C3 Hairball Blue
+0049F43F Hairball Yellow
+0049F4BB Hairball Green
+0049F537 Hairball Brown
+0049F5B3 Hairball White
+0049F62F Hairball Black
+0049F6AB Blade Bunny
+0049F727 Golden Bunny
+0049F7A3 Dark Bunny
+0049F81F Killer Bunny
+0049F89B Creeper
+0049F917 Purple Creeper
+0049F993 Armadillon
+0049FA0F Rockadillo
+0049FA8B Snail
+0049FB07 Zombie Snail
+0049FB83 ReMiFa
+0049FBFF Doremi Elf Red
+0049FC7B MiFaSo
+0049FCF7 Doremi Elf Blue
+0049FD73 FaSoLa
+0049FDEF Doremi Elf Orange
+0049FE6B SoLaTi
+0049FEE7 Doremi Elf Green
+0049FF63 LaTiDo
+0049FFDF Doremi Elf Purple
+004A005B Doremi Elf White
+004A00D7 Wild Boar
+004A0153 Wild Boar ( Boss Area )
+004A01CF Peckles
+004A024B Peckles ( Boss Area )
+004A02C7 Razorback
+004A0343 Razorback ( Boss Area )
+004A03BF Skeleton
+004A043B Bone Soldier
+004A04B7 Skull Army
+004A0533 Banshee
+004A05AF Siren
+004A062B Siren ( Boss Area )
+004A06A7 Ghost Armor
+004A0723 Terrible Armor
+004A079F Terror Armor
+004A081B Mad Dog
+004A0897 Hellhound
+004A0913 Ghost Shield
+004A098F Magic Shield
+004A0A0B Unicorn Zombie
+004A0A87 Hellsteed ( Boss Area )
+004A0B03 Mad Condor
+004A0B7F Killer Bald Eagle
+004A0BFB Condor Zombie
+004A0C77 Killer Tiger
+004A0CF3 Saber Fang
+004A0D6F Arrow Bat
+004A0DEB Man-eating Bat
+004A0E67 Vampire Bat
+004A0EE3 Ogre Frog
+004A0F5F Evil Toad
+004A0FDB Horohoro
+004A1057 Blight
+004A10D3 Hermilio Crab
+004A114F Hermisio Crab
+004A11CB Dragonfly
+004A1247 Avolo Pestis
+004A12C3 Avolo Pestis ( Boss Area )
+004A133F Centipede
+004A13BB Salamandy
+004A1437 Greater Salamandy
+004A14B3 King Salamandy
+004A152F Monoeye
+004A15AB Millioneye
+004A1627 Billioneye
+004A16A3 Large Spider
+004A171F Huge Legs
+004A179B Huge Legs ( Boss Area )
+004A1817 Tarantula
+004A1893 Tarantula ( Boss Area )
+004A190F Visage Box
+004A198B Malifaux
+004A1A07 Wizard Tree
+004A1A83 Papa Holly
+004A1AFF Ghost Holly
+004A1B7B Zadom
+004A1BF7 Zadom ( Boss Area )
+004A1C73 Zadom King
+004A1CEF Ulse
+004A1D6B Ulse ( Boss Area )
+004A1DE7 Red Ulse
+004A1E63 Red Ulse ( Boss Area )
+004A1EDF Gray Ulse
+004A1F5B Gray Ulse ( Boss Area )
+004A1FD7 Furball
+004A2053 Furball ( Boss Area )
+004A20CF Big Creeper
+004A214B Big Creeper ( Boss Area )
+004A21C7 Bronze Sun
+004A2243 Copper Sun
+004A22BF Copper Sun ( Boss Area )
+004A233B Stone Golem
+004A23B7 Rock Golem
+004A2433 Rock Golem ( Boss Area )
+004A24AF Nemesis ( Boss Area )
+004A252B Salamander
+004A25A7 Salamander ( Boss Area )
+004A2623 Wyvern
+004A269F Wyvern ( Boss Area )
+004A271B Mantikra
+004A2797 Blue Scissors
+004A2813 Blue Scissors ( Boss Area )
+004A288F King Mantik
+004A290B King Mantik ( Boss Area )
+004A2987 Diamond Sun A ( Story Boss )
+004A2A03 Diamond Sun B ( Story Boss )
+004A2A7F Ancient Creeper ( Story Boss )
+004A2AFB Enmesharra ( Story Boss )
+004A2B77 Girtablulu ( Story Boss )
+004A2BF3 Gudalim ( Story Boss )
+004A2C6F Sun Rune Incarnation ( Story Boss )
+004A2CEB Guardian Heat Sprite ( Story Boss )
+004A2D67 Guardian Light Sprite ( Story Boss )
+004A2DE3 Book of Condemnation ( Story Boss )
+004A2E5F Dagon ( Story Boss )
+004A2EDB Zombie
+004A2F57 Mummy
+004A2FD3 Royal Mummy
+004A304F Shepcesska ( Story Boss )
+004A30CB Differential Gear ( Story Boss )
+004A3147 Embryo
+004A31C3 Mechanical Soldier
+004A323F Mechanical Archer
+004A32BB Hydra ( Story Boss )
+004A3337 Thug Fists (1)
+004A33B3 Thug Knife (1)
+004A342F Thug Fists (2)
+004A34AB Thug Knife (2)
+004A3527 Thug Knife (3)
+004A35A3 Bodyguard (1)
+004A361F Bodyguard (2)
+004A369B Barows Soldier Sword
+004A3717 Barows Soldier Crossbow
+004A3793 Thug Fists (3)
+004A380F Thug Fists (4)
+004A388B Assassin - 1
+004A3907 Assassin - 2
+004A3983 Assassin - 3
+004A39FF Assassin - 4
+004A3A7B Raging Assassin - 1
+004A3AF7 Raging Assassin - 2
+004A3B73 Godwin Soldier Sword - 1
+004A3BEF Prison Guard Sword - 1
+004A3C6B Prison Guard Sword - 2
+004A3CE7 Godwin Soldier Sword - 2
+004A3D63 Godwin Soldier Sword - 3
+004A3DDF Elite Soldier Sword - 1
+004A3E5B Elite Soldier Sword - 2
+004A3ED7 Imperial Guard Sword - 1
+004A3F53 Imperial Guard Sword - 2
+004A3FCF Imperial Guard Sword - 3
+004A404B Elite Trooper Sword
+004A40C7 Godwin Soldier Crossbow - 1
+004A4143 Prison Guard Crossbow - 1
+004A41BF Prison Guard Crossbow - 2
+004A423B Godwin Soldier Crossbow - 2
+004A42B7 Godwin Soldier Crossbow - 3
+004A4333 Elite Soldier Crossbow - 1
+004A43AF Elite Soldier Crossbow - 2
+004A442B Imperial Guard Crossbow - 1
+004A44A7 Imperial Guard Crossbow - 2
+004A4523 Imperial Guard Crossbow - 3
+004A459F Elite Trooper Crossbow
+004A461B Barows Soldier Sword
+004A4697 Barows Soldier Crossbow
+004A4713 Bandit Sword - 1
+004A478F Bandit Sword - 2
+004A480B Bandit Crossbow - 1
+004A4887 Bandit Crossbow - 2
+004A4903 Sable Patrol Guard Front Guard
+004A497F Sable Patrol Guard Rear Guard
+004A49FB Pirate Lackey Sword - 1
+004A4A77 Pirate Lackey Sword - 2
+004A4AF3 Pirate Lackey Crossbow - 1
+004A4B6F Pirate Lackey Crossbow - 2
+004A4BEB Pirate Captain
+004A4C67 Suspicious Man
+004A4CE3 Armes Soldier Sword
+004A4D5F Armes Bodyguard Sword
+004A4DDB Armes Soldier Crossbow
+004A4E57 Armes Bodyguard Crossbow
+004A4ED3 Dolph - 1
+004A4F4F Dolph - 2
+004A4FCB Childerich
+004A5047 Prison Guard Cius
+004A50C3 Prison Guard Lelei
+004A513F Nikea
+004A51BB Bandit Faylon
+004A5237 Bandit Faylen
+004A52B3 Euram
+004A532F Giant Snake Byakuren - 1
+004A53AB Giant Snake Byakuren - 2
+004A5427 Giant Snake Byakuren - 3
+004A54A3 Alenia - 1
+004A551F Alenia - 2
+004A559B Alenia - 3
+004A5617 Raging Alenia
+004A5693 Zahhak - 1
+004A570F Zahhak - 2
+004A578B Raging Zahhak
+004A5807 Galleon
+004A5883 Jidan
+004A58FF Dilber
+004A597B Sialeeds - 1
+004A59F7 Sialeeds - 2
+004A5A73 Bahram

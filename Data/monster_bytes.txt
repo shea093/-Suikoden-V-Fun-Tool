@@ -1,0 +1,23 @@
+Byte 01 :
+Byte 02 :
+Bytes 03 : Level
+Bytes 04-05 : HP
+Bytes 06-07 : Attack
+Bytes 08-09 : Technique
+Bytes 0A-0B : Accurary
+Bytes 0C-0D : Magic
+Bytes 0E-0F : Evasion
+Bytes 10-11 : Defense
+Bytes 12-13 : Magic Def
+Bytes 14-15 : Speed
+Bytes 16-17 : Luck
+Bytes 18-19 : Potch received when killing
+Bytes 1A-1B : SP received when killing
+Bytes 1C-29 : Rune Affinities
+Bytes 2A-2B : 100% chance drop ( value 0F : 100% drop all , 1F-2F-3F : i don't know but some monster have that value )
+Bytes 2E-2F : 40% chance drop ( 2E : Type and 2F : List )
+Bytes 36-37 : 20% chance drop
+Bytes 3E-3F : 10% chance drop
+Bytes 46-47 : 5% chance drop
+Bytes 4E-4F : 1% chance drop
+Bytes 56-57 : Cooking drop
